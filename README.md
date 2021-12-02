@@ -4,7 +4,7 @@
 <div align = "center">
 
 <br/>
-<h3>Joyful Joy 🥳</h3><br/>
+<h3>백엔드 개발자(진):sweat_smile:</h3><br/>
 Hello, I'm Juhee (Joy).<br/>
 My goal is to give good influence to society.<br/>
 Have a day full of JOY today.
